@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 2
   tags:
   - Click Area
+  - Collector Area
+  - Ball
   layers:
   - Default
   - TransparentFX
